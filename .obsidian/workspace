@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "87c01634ea30c104",
+        "id": "a79c40593fe02c92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "paper_read.md",
+            "file": "Reading notes/@mccoy2017.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "10d3e6876c056c16",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cell-古人类渐渗.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper_read.md",
+                "file": "Reading notes/@mccoy2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87c01634ea30c104",
+  "active": "a79c40593fe02c92",
   "lastOpenFiles": [
-    "paper_read.md",
-    "circos使用.md",
-    "part2/README.md",
-    "part2/feedback_please.md",
-    "part2/better_tools.md",
-    "warn.md",
-    "SUMMARY.md",
-    "part1/writing.md",
-    "Untitled.md"
+    "Reading notes/@mccoy2017.md",
+    "cell-古人类渐渗.md",
+    "mccoy2017 - Extracted Annotations (7192021, 25557 PM).md",
+    "mccoy2017.md",
+    "README.md",
+    "Untitled.md",
+    "曼哈顿叠加图.md",
+    "Reading notes/@zhang2021c.md",
+    "铁观音基因组.md",
+    "obsidian-citation.md"
   ]
 }
