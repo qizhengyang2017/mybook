@@ -22,9 +22,12 @@ year: 2017
 
 > "The paucity of SNPs exhibiting large effects is consistent with previous studies showing that cis-regulatory effects are generally consistent across tissues and experimental conditions" ([McCoy et al 2017:922](zotero://open-pdf/library/items/LKUCRG9X?page=7))
 
-> "When Neanderthal cis-regulatory elements introgressed into the modern human trans-regulatory background, genes may have failed to be expressed at the same level as in their native regulatory environments (Figure 6). Such epistasis between cisand trans-acting factors is well documented in nature, can arise rapidly as a consequence of selection on gene regulation, and is known to contribute to hybrid incompatibilities" ([McCoy et al 2017:924](zotero://open-pdf/library/items/LKUCRG9X?page=9))
+> "When Neanderthal cis-regulatory elements introgressed into the modern human trans-regulatory background, genes may have failed to be expressed at the same level as in their native regulatory environments (Figure 6). Such epistasis between cis-and trans-acting factors is well documented in nature, can arise rapidly as a consequence of selection on gene regulation, and is known to contribute to hybrid incompatibilities" ([McCoy et al 2017:924](zotero://open-pdf/library/items/LKUCRG9X?page=9))
+当尼安德特人的顺式调控元件渗入现代人类的跨调控背景时，基因的表达水平可能无法与其天然调控环境中的水平相同（图 6）。 顺式和反式作用因子之间的这种上位性在自然界中有很好的记录，可以作为基因调控选择的结果迅速出现，并且已知会导致杂种不相容性
 
 > "While misregulation due to epistasis may also lead to increased expression, decreased expression may be more common, as recently concluded by Guerrero et al. (2016) who found significant downregulation of introgressed genes in nightshade plants." ([McCoy et al 2017:924](zotero://open-pdf/library/items/LKUCRG9X?page=9))
+
+虽然由于上位性导致的错误调节也可能导致表达增加，但正如 Guerrero 等人最近得出的结论，表达减少可能更为常见。 (2016) 发现茄属植物中渗入基因的显着下调
 
 > "Neanderthals went extinct approximately 40,000 years ago, yet much of their DNA lives on in the genomes of modern humans." ([McCoy et al 2017:924](zotero://open-pdf/library/items/LKUCRG9X?page=9))
 

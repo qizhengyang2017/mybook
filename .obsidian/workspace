@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a79c40593fe02c92",
+        "id": "7a46038a3a0ccd6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading notes/@mccoy2017.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "10d3e6876c056c16",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cell-古人类渐渗.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#明日计划",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,12 +47,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ef03ab974d868e9d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270
   },
   "right": {
     "id": "cfca82ed785bf7a9",
@@ -79,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@mccoy2017.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +86,35 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7b94c684f98c7467",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md"
+              }
+            }
+          },
+          {
+            "id": "5852a8a38f77a5db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6afb09254255439",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a79c40593fe02c92",
+  "active": "7a46038a3a0ccd6b",
   "lastOpenFiles": [
-    "Reading notes/@mccoy2017.md",
+    "SUMMARY.md",
+    "test/README.md",
+    "test/gitbook.md",
     "cell-古人类渐渗.md",
-    "mccoy2017 - Extracted Annotations (7192021, 25557 PM).md",
-    "mccoy2017.md",
-    "README.md",
+    "bedtools使用.md",
+    "awk.md",
+    "作物育种.md",
+    "水稻基因克隆.md",
     "Untitled.md",
-    "曼哈顿叠加图.md",
-    "Reading notes/@zhang2021c.md",
-    "铁观音基因组.md",
     "obsidian-citation.md"
   ]
 }
