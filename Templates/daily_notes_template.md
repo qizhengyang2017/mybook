@@ -1,12 +1,22 @@
 {{date:YYYY-MM-DD dddd}}
 
-- #每日任务 
+- #今日任务 
   - [ ] 
+
 
 - #tracking
   - 
 
-- #文献阅读
+- #reading
+  - 
+
+
+- #coding
+
+
+- #明日计划 
+  - 
+
 
 
 

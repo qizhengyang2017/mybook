@@ -5,3 +5,7 @@ bedtools intersect -a introg_1based.bed -b Ghirsutum_gene_model_Ghir_number_1bas
 
 bedtools intersect -a introg_1based.bed -b Ghirsutum_gene_model_Ghir_number_1based_tab.bed -wa -wb|bedtools groupby  -c 7 -o collapse > introg_gene_within.txt
 
+
+
+bedtools intersect -a gene_rank.txt -b introg.txt -wa -wb|bedtools groupby -c 4 -o count
+

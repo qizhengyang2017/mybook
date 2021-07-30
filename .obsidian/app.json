@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false
 }

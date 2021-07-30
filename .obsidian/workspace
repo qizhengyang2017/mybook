@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "Templates/daily_notes_template.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#明日计划",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 300
   },
   "right": {
     "id": "cfca82ed785bf7a9",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Templates/daily_notes_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "Templates/daily_notes_template.md"
               }
             }
           },
@@ -116,24 +116,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7a46038a3a0ccd6b",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "test/README.md",
-    "test/gitbook.md",
-    "cell-古人类渐渗.md",
-    "bedtools使用.md",
-    "awk.md",
-    "作物育种.md",
-    "水稻基因克隆.md",
+    "Templates/daily_notes_template.md",
+    "Daily notes/2021-07-29.md",
+    "Daily notes/2021-07-23.md",
+    "Daily notes/2021-07-22.md",
+    "Daily notes/2021-07-27.md",
+    "Daily notes/2021-07-24.md",
+    "Daily notes/2021-07-26.md",
+    "Daily notes/2021-07-28.md",
     "Untitled.md",
-    "obsidian-citation.md"
+    "ggplot2.md"
   ]
 }
