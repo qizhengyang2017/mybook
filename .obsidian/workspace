@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a0db90a7ed6023c6",
-        "type": "split",
-        "children": [
-          {
-            "id": "2aa6b9cbe1b777e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cell-古人类渐渗.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8579caca91a5485b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "渐渗分析.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "cbf9833870802cb9",
+        "id": "57deb5a66a1404ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reading_notes/@mccoy2017.md",
+            "file": "分析计划-Fig5.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f4ff1982fd96abf6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "渐渗分析.md",
             "mode": "source"
           }
         }
@@ -68,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,13 +87,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渐渗分析.md",
+                "file": "分析计划-Fig5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -122,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渐渗分析.md"
+                "file": "分析计划-Fig5.md"
               }
             }
           },
@@ -146,24 +128,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8579caca91a5485b",
+  "active": "57deb5a66a1404ad",
   "lastOpenFiles": [
+    "分析计划-Fig5.md",
     "渐渗分析.md",
-    "cell-古人类渐渗.md",
-    "reading_notes/@mccoy2017.md",
-    "作物育种.md",
-    "渐渗与表达失调.md",
-    "Untitled.md",
-    "daily_notes/2021-08-05.md",
     "daily_notes/2021-08-04.md",
-    "daily_notes/2021-07-30.md",
-    "daily_notes/2021-08-03.md"
+    "daily_notes/2021-08-10.md",
+    "daily_notes/2021-08-11.md",
+    "reading_notes/@kremling2018.md",
+    "分析计划-causal gene.md",
+    "审稿意见.md",
+    "马铃薯.md",
+    "曼哈顿叠加图.md"
   ]
 }
