@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "57deb5a66a1404ad",
+        "id": "e55be8795f9b827e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "分析计划-Fig5.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f4ff1982fd96abf6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "渐渗分析.md",
+            "file": "bedtools使用.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loess",
+                "query": "tag:#awk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分析计划-Fig5.md",
+                "file": "bedtools使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分析计划-Fig5.md"
+                "file": "bedtools使用.md"
               }
             }
           },
@@ -134,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "57deb5a66a1404ad",
+  "active": "e55be8795f9b827e",
   "lastOpenFiles": [
-    "分析计划-Fig5.md",
-    "渐渗分析.md",
-    "daily_notes/2021-08-04.md",
-    "daily_notes/2021-08-10.md",
-    "daily_notes/2021-08-11.md",
-    "reading_notes/@kremling2018.md",
-    "分析计划-causal gene.md",
-    "审稿意见.md",
-    "马铃薯.md",
-    "曼哈顿叠加图.md"
+    "bedtools使用.md",
+    "群体结构三剑客.md",
+    "荟萃分析.md",
+    "Untitled.md",
+    "富集分析.md",
+    "daily_notes/2021-09-05.md",
+    "daily_notes/2021-08-17.md",
+    "棉花纤维发育.md",
+    "概念.md",
+    "路径.md"
   ]
 }

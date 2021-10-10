@@ -2,6 +2,9 @@
   "obsidianCss": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
-  "fileSortOrder": "alphabetical",
-  "promptDelete": false
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false,
+  "tabSize": 2,
+  "useTab": false,
+  "spellcheck": false
 }

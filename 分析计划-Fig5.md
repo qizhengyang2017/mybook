@@ -22,14 +22,14 @@
 3. 如何使用渐渗来改良纤维品质？ #思考
 	1. 既然渐渗容易是基因下调表达，引起负效应，如何有效地通过渐渗改良品种呢？因为一些有益的基因存在于另外的物种中，如何有效地将这些基因引入到当前品种中，而不引起这个基因低表达呢？
 
-#questions 
-拟合曲线取平均是否合理？
 
-#记录 
-Gray bars indicate ±1.96 SD. Ota _et al._ (2021, _Cell_)
+拟合曲线取平均是否合理？#questions 
 
- #待做 
+
+Gray bars indicate ±1.96 SD. Ota _et al._ (2021, _Cell_) #统计 
+
+
 - [x] 随机结果动态演示。gganimate扩展包提供了制作动图的功能。 https://bookdown.org/wangminjie/R4DS/ggplot2-gganimate.html
-- 如何查看一个R包中有的函数，Error: 'covnat' is not an exported object from 'namespace:covdata'
+- [ ] 如何查看一个R包中有的函数，Error: 'covnat' is not an exported object from 'namespace:covdata'
 
 

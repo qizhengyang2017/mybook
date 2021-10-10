@@ -32,3 +32,18 @@ awk 的基本执行流程是，对文件的每一行，做一个指定的逻辑�
 ```
 cat test.txt|awk '{x[$0]++}END{for(k in x){print k"\t"x[k]}}'
 ```
+
+
+(mashr) 21:26 zyqi@login02:/data/cotton/zyqi/Ga_data/nominal
+$cat run2.sh
+
+```
+for i in 4DPA 8DPA 12DPA 16DPA 20DPA
+do
+awk 'NR==FNR{a[$4]=$2;b[$4]=$1;if ($6=="+") c[$4]=$2; else c[$4]=$3;next}{p=a[$2]+$4+1;$3=b[$2]"_"p;$4=p-c[$2];print $2,$3,$4,$5,$6,$7,$8,$9,$10}' OFS='\t' change.Chr_genome_final_gene_1based.bed ${i}_fastQTL_nominal_AllChrs.txt > ${i}_nominal_addID_TSSdistance.txt
+
+md5sum ${i}_nominal_addID_TSSdistance.txt > ${i}_nominal_addID_TSSdistance.txt.md
+done
+```
+
+
