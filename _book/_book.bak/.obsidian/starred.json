@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "渐渗与表达失调",
+      "path": "渐渗分析.md"
+    },
+    {
+      "type": "file",
+      "title": "遗传调控项目任务",
+      "path": "遗传调控项目任务.md"
+    },
+    {
+      "type": "file",
+      "title": "ggplot2",
+      "path": "ggplot2.md"
+    },
+    {
+      "type": "file",
+      "title": "二倍体结果分析",
+      "path": "二倍体分析.md"
+    },
+    {
+      "type": "file",
+      "title": "tidyverse",
+      "path": "tidyverse.md"
+    }
+  ]
+}
