@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bedtools使用.md",
+            "file": "git.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bedtools使用.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bedtools使用.md"
+                "file": "git.md"
               }
             }
           },
@@ -125,6 +125,8 @@
   },
   "active": "e55be8795f9b827e",
   "lastOpenFiles": [
+    "git.md",
+    "git使用.md",
     "bedtools使用.md",
     "群体结构三剑客.md",
     "荟萃分析.md",
@@ -132,8 +134,6 @@
     "富集分析.md",
     "daily_notes/2021-09-05.md",
     "daily_notes/2021-08-17.md",
-    "棉花纤维发育.md",
-    "概念.md",
-    "路径.md"
+    "棉花纤维发育.md"
   ]
 }
