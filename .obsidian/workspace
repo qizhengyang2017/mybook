@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "df5f9ad1b7e25e4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "email模板.md",
+            "file": "gitbook部署回顾-2021-10-11.md",
             "mode": "source"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "gitbook部署回顾-2021-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "gitbook部署回顾-2021-10-11.md"
               }
             }
           },
@@ -132,20 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e55be8795f9b827e",
   "lastOpenFiles": [
+    "gitbook部署回顾-2021-10-11.md",
     "SUMMARY.md",
-    "email模板.md",
+    "bioinfo/issue1.md",
     "mashr.md",
-    "富集分析.md",
+    "概念.md",
     "bedtools使用.md",
-    "hugo部署回顾-2021-10-10.md",
-    "ENCODE.md",
-    "tidyverse.md",
-    "TWAS的多重检验.md",
-    "分析路径.md"
+    "daily_notes/2021-10-08.md",
+    "荟萃分析.md",
+    "HiC loop.md",
+    "TWAS的多重检验.md"
   ]
 }
