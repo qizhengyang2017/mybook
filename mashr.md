@@ -19,4 +19,3 @@ Data-driven covariances
 a vector of strings indicating the matrices to be used: "identity" for the identity (effects are independent among conditions); "singletons" for the set of matrices with just one non-zero entry x_jj = 1 (j=1,...,R); (effect specific to condition j); "equal_effects" for the matrix of all 1s (effects are equal among conditions); "simple_het" for a set of matrices with 1s on the diagonal and all off-diagonal elements equal to 0.25, 0.5 or 0.75; see cov_simple_het for details; (effects are correlated among conditions).
 
 
-## mashr new

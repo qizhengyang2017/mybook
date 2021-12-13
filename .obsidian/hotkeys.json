@@ -6,13 +6,5 @@
       ],
       "key": "T"
     }
-  ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
   ]
 }

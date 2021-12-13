@@ -7,7 +7,7 @@ year: 2018
  
 
 ## UrLs
-重要的链接
+**重要的链接**
 
 Multivariate adaptive shrinkage (mash) software, https://github. com/stephenslab/mashr; code and data resources for GTEx analysis, https://github.com/stephenslab/gtexresults, https://doi.org/10.5281/zenodo.1296399; GTEx project, http://gtexportal.org; adaptive shrinkage (ash) software, https://github.com/stephens999/ ashr; Sparse Factor Analysis (SFA) software, http://stephenslab.uchi- cago.edu/software.html; Extreme Deconvolution software, https:// github.com/jobovy/extreme-deconvolution; METASOFT software, http://genetics.cs.ucla.edu/meta; Matrix eQTL software, http:// www.bios.unc.edu/research/genomic_software/Matrix_eQTL.
 
@@ -32,4 +32,6 @@ We introduce more flexible statistical methods that combine the most attractive 
 -   (5) 它是通用的，只需要一个包含每个条件下观察到的效果的矩阵和一个相应标准误差的矩阵。
 -   （或者，mash 可以只提供一个 Z 分数矩阵，尽管这会降低估计效果大小的能力。）这些功能一起使 mash 成为一种灵活且广泛适用的方法，用于在多种条件下估计和测试多种效果。
 
-To demonstrate the potential for mash to provide new insights, we applied it to analyze cis eQTL effects in 16,069 genes across 44 human tissues. ==Focusing on the strongest cis eQTLs==, we found that although most eQTLs are shared by many tissues, effect sizes can still vary considerably. Our results suggest that when assessing effects that are tissue specific versus tissue consistent, careful attention should be paid to the sizes of effects, and not only to tests for significance.
+To demonstrate the potential for mash to provide new insights, we applied it to analyze cis eQTL effects in 16,069 genes across 44 human tissues. ==Focusing on the strongest cis eQTLs==, we found that although most eQTLs are shared by many tissues, effect sizes can still vary considerably. Our results suggest that when assessing effects that are tissue specific versus tissue consistent, careful attention should be paid to the sizes of effects, and not only to tests for significance. #引用
+
+他这篇文章只关注效应最强的那个cis eQTL。

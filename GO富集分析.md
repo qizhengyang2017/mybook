@@ -21,5 +21,5 @@ des <-  go2term(go2gene1$GO)
 ont <- go2ont(go2gene1$GO)
 ```
 
-没有orgDB，只能用enricher做富集，这个函数指定层级
+没有orgDB，只能用enricher做富集，`gofilter`函数指定层级
 [函数说明]( https://bioconductor.org/packages/release/bioc/manuals/clusterProfiler/man/clusterProfiler.pdf)

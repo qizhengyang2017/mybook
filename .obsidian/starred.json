@@ -24,6 +24,11 @@
       "type": "file",
       "title": "tidyverse",
       "path": "tidyverse.md"
+    },
+    {
+      "type": "file",
+      "title": "mashr",
+      "path": "mashr.md"
     }
   ]
 }

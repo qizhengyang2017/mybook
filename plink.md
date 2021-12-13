@@ -11,6 +11,15 @@ https://www.cog-genomics.org/plink/1.9/index
 
 The [--make-bed](https://zzz.bwh.harvard.edu/plink/data.shtml#bed) option does the same as --recode but creates binary files; these can also be filtered, etc, as described below.
 
+```
 module load plink
-
 plink --vcf filter2_Q1000_SNPs_joint_376_MAF0.05.vcf.gz  --out filter2_Q1000_SNPs_joint_376_MAF0.05 --allow-no-sex --allow-extra-chr --make-bed
+```
+
+plink 使用说明
+- plink 一旦用了`--make-bed`minor就在前面了（A1）
+- vcf转plink的时候，不加`--make-bed`，ref当成A2
+  plink --vcf filter2_Q600_SNPs_joint_216_addID.vcf.gz --out filter2_Q600_SNPs_joint_216_addID --allow-no-sex --allow-extra-chr
+  
+  
+  
