@@ -8,6 +8,6 @@
   * [第一个MAGIC群体](reading_notes/@kover2009.md)
 * [生信周刊](bioinfo/README.md)
   * [第一期](bioinfo/issue1.md)
-  * [第二期](eQTL分析方法综述.md)
+  * [第二期](bioinfo/eQTL分析方法综述.md)
 
 
