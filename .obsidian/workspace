@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软件安装/gitbook部署回顾-2021-10-11.md",
+            "file": "bioinfo/eQTL分析方法综述.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件安装/gitbook部署回顾-2021-10-11.md",
+                "file": "bioinfo/eQTL分析方法综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件安装/gitbook部署回顾-2021-10-11.md"
+                "file": "bioinfo/eQTL分析方法综述.md"
               }
             }
           },
@@ -125,15 +125,15 @@
   },
   "active": "b212ffa0f80f006a",
   "lastOpenFiles": [
-    "软件安装/gitbook部署回顾-2021-10-11.md",
-    "SUMMARY.md",
-    "README.md",
-    "软件安装/hugo部署回顾-2021-10-10.md",
-    "gitbook.md",
-    "bioinfo/README.md",
-    "bioinfo/issue1.md",
     "bioinfo/eQTL分析方法综述.md",
     "eQTL综述.md",
-    "reading_notes/@georges2021.md"
+    "SUMMARY.md",
+    "weekly_notes/2021-W46.md",
+    "软件安装/gitbook部署回顾-2021-10-11.md",
+    "bioinfo/README.md",
+    "bioinfo/issue1.md",
+    "README.md",
+    "软件安装/hugo部署回顾-2021-10-10.md",
+    "gitbook.md"
   ]
 }

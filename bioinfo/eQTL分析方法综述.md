@@ -1,12 +1,12 @@
-## eQTL分析方法及其在植物中的应用
-
+## eQTL分析方法
 基因表达是将遗传变异与表型变异联系起来的重要分子表型，基因表达的变化可能在表型变异和物种适应性进化中起关键作用(Wang et al., 2018)。基因表达在生物体中受时空的协同调控。在全基因组水平上剖析基因间的调控关系对于理解特定的生物学过程非常重要(Wang et al., 2018; Zhang et al., 2017)。一种揭示基因调控关系的潜在有效方法是表达数量性状基因座 (Expression quantitative trait loci, eQTL) 分析(Druka et al., 2010; Gilad et al., 2008)。eQTL是一类能够影响基因表达量的遗传位点。一般而言，eQTL主要分为两类：（1）顺式eQTL（cis-eQTL）：它主要是指与所调控基因相距较近的eQTL，一般多位于所调控基因的上下游1Mb区域；（2）反式eQTL（trans-eQTL）：是指距离所调控基因位置比较远的eQTL，有时候甚至位于不同的染色体上。
 
 尽管GWAS能够将成百上千个基因组位点与复杂性状关联起来，但是通常GWAS位点难以解释：连锁不平衡 (LD) 经常掩盖驱动关联的因果变异，并且仅从 GWAS 数据中很少可以确定介导变异对性状影响的因果基因。这一挑战推动了对GWAS位点进行因果关系基因鉴定（prioritize causal genes）的算法的开发(Wainberg et al., 2019)。全转录组关联研究 (Transcriptome-wide association studies, TWAS) 通过整合GWAS和基因表达数据集来识别基因与性状的关联。最近的研究利用预测的基因表达来提高 TWAS 的能力(Pasaniuc and Price, 2017)。这种方式首先需要转录组参考数据用于预测 GWAS 数据集中的基因表达（例如，使用转录起始位点 1 Mb 内的顺式 SNP），然后评估预测的表达和性状之间的关联。表达量预测和关联分析可以使用汇总的GWAS数据和LD信息（FUSION (Gusev et al., 2016)）。 其他整合GWAS和表达数据鉴定候选基因的方法还有 SMR/HEIDI 和GWAS-eQTL共定位方法。SMR的基本思想是：执行孟德尔随机化等效分析，使用 GWAS 和 eQTL 的汇总数据，以全基因组显著 SNPs 作为工具变量，测试基因表达和目标表型之间的关联，显著的 SMR 关联可以用因果效应、遗传多效性或连锁解释。SMR 用 HEIDI-outlier检测来区分因果关系/多效性与连锁，但目前还没有办法区分因果关系和基因多效性(Zhu et al., 2016)。GWAS-eQTL共定位方法用来评估两个关联信号是否与共享的相同的因果变异。这类方法有很多，例如coloc(Giambartolomei et al., 2014; Wallace, 2020, 2021)、eCaviar(Hormozdiari et al., 2016)、enloc(Wen et al., 2017)。
 
+## 植物中的应用
 随着测序技术的发展，许多植物已经开展了全基因组的eQTL研究，例如拟南芥(Zan et al., 2016)、水稻(Wang et al., 2014)、玉米(Fu et al., 2013; Liu et al., 2017, 2020; Wang et al., 2018; Yang et al., 2019)、番茄(Zhu et al., 2018)、棉花(Ma et al., 2021; Wang et al., 2020)、生菜(Zhang et al., 2017)、甜瓜(Galpaz et al., 2018)、甘薯(Zhang et al., 2020)、油菜(Tang et al., 2021)等。华中农大棉花课题组通过对251份陆地棉自然群体的纤维进行转录组测序，鉴定出15,330 eQTLs。通过TWAS分析发现了13个与纤维品质相关的候选基因(Li et al., 2020)。同样在高温胁迫下棉花雄性不育的研究中，研究人员通过对高温胁迫下生长的218个棉花材料的花药进行转录组测序，并通过eQTL和TWAS分析发现了6个关键基因，其中GhHRK1被证实为高温响应的负调控因子(Ma et al., 2021)。 中国农业大学秦峰教授选择224份抗旱性存在广泛差异的玉米自交系，在正常浇水和两种干旱胁迫条件下进行处理，共获得了627个高质量转录组数据。通过孟德尔随机化分析，发现97个基因因其表达差异优先与抗旱相关，其中一个候选基因，脱落酸8‘-羟化酶，已被证实在植物抗旱性中起负调控作用(Liu et al., 2020)。
 
-### 参考文献
+## 参考文献
 1.	Druka, A., Potokina, E., Luo, Z., Jiang, N., Chen, X., Kearsey, M., and Waugh, R. (2010). Expression quantitative trait loci analysis in plants: eQTL analysis in plants. Plant Biotechnology Journal 8, 10–27.
 2.	Fu, J., Cheng, Y., Linghu, J., Yang, X., Kang, L., Zhang, Z., Zhang, J., He, C., Du, X., Peng, Z., et al. (2013). RNA sequencing reveals the complex regulatory network in the maize kernel. Nat Commun 4, 2832.
 3.	Galpaz, N., Gonda, I., Shem‐Tov, D., Barad, O., Tzuri, G., Lev, S., Fei, Z., Xu, Y., Mao, L., Jiao, C., et al. (2018). Deciphering genetic factors that determine melon fruit-quality traits using RNA-Seq-based high-resolution QTL and eQTL mapping. Plant J 94, 169–191.
