@@ -29,6 +29,11 @@
       "type": "file",
       "title": "mashr",
       "path": "mashr.md"
+    },
+    {
+      "type": "file",
+      "title": "plink",
+      "path": "plink.md"
     }
   ]
 }

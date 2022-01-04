@@ -6,5 +6,7 @@
   "promptDelete": false,
   "tabSize": 2,
   "useTab": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

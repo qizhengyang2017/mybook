@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "软件安装/gitbook部署回顾-2021-10-11.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -82,8 +83,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,14 +126,14 @@
   "active": "b212ffa0f80f006a",
   "lastOpenFiles": [
     "软件安装/gitbook部署回顾-2021-10-11.md",
-    "_book/daily_notes/2021-07-24 2.md",
-    "daily_notes/2021-07-24.md",
-    "_book/daily_notes/2021-07-24.md",
     "SUMMARY.md",
-    "paper/水稻菌根共生.md",
-    "git.md",
-    "bioinfo/issue1.md",
+    "README.md",
+    "软件安装/hugo部署回顾-2021-10-10.md",
+    "gitbook.md",
     "bioinfo/README.md",
-    "daily_notes/2021-08-11.md"
+    "bioinfo/issue1.md",
+    "bioinfo/eQTL分析方法综述.md",
+    "eQTL综述.md",
+    "reading_notes/@georges2021.md"
   ]
 }

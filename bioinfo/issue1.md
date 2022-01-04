@@ -1,11 +1,14 @@
-## 测序
+## 测序知识
 为什么测序之前要进行PCR扩增，扩增为什么会产生duplacate reads？
 
 
-## meta 分析
 
 
-## coloc 原理
+## shell编程
+多加一些条件判断，这样结果有问题的时候不会往下计算。
+shell 退出状态码
+
+
 
 
 ## R book
@@ -27,9 +30,22 @@ https://mp.weixin.qq.com/s/qSHV65YOIVL8-rWNGcA5dg
 Trans-eQTL exerted their effects via several mechanisms, primarily through regulation by transcription factors.  [[@vosa2021]]
 
 
-
+## 使用过的软件
+sratoolkit 2.11.0
  
 ## 软件
 LocusZoom [[@georges2021]] 
 http://locuszoom.org/
+
+
+## GWAS
+GWAS的起点被定在了2007年
+
+>Although the first results from a GWAS were reported in 2005 and 2006, we take the 2007 Wellcome Trust Case Control Consortium (WTCCC) paper in Nature as a starting point. The reason for this is that the WTCCC study was the first large, well-designed GWAS for complex diseases to employ a SNP chip that had good coverage of the genome.
+
+Visscher _et al._, _The American Journal of Human Genetics_, 2012
+
+           
+
+
 
