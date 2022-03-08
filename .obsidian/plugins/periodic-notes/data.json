@@ -9,8 +9,8 @@
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "weekly_notes",
+    "template": "Templates/weekly_notes_template.md",
+    "folder": "/",
     "enabled": true
   },
   "monthly": {

@@ -18,7 +18,7 @@
     {
       "type": "file",
       "title": "二倍体结果分析",
-      "path": "二倍体分析.md"
+      "path": "back/二倍体分析.md"
     },
     {
       "type": "file",
@@ -28,7 +28,7 @@
     {
       "type": "file",
       "title": "mashr",
-      "path": "mashr.md"
+      "path": "4-Analysis/mashr的一些使用说明.md"
     },
     {
       "type": "file",
